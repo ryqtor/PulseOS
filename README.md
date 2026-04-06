@@ -44,7 +44,7 @@ This project helps users quickly understand public opinion about smartwatch prod
    - Positive
    - Neutral
    - Negative
-5. The sentiment result is displayed on the screen.
+5. The sentiment result is displayed on the screen
 
 ---
 
